@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-07-18 12:51 UTC\n"
-"PO-Revision-Date: 2019-08-19 15:37+0200\n"
+"PO-Revision-Date: 2019-08-19 21:50+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,16 +16,18 @@ msgstr ""
 "%10<=4) || n%10==9) && (n%100<10 || n%100>19) && (n%100<70 || n%100>79) && (n"
 "%100<90 || n%100>99) ? 2 : n!=0 && n%1000000==0 ? 3 : 4);\n"
 "Language: br\n"
+"Last-Translator: Anthony Guéchoum <wesnothbzh@gmail.com>\n"
 
 #. [lua]: wml_actions.select_character
 #: data/campaigns/tutorial/lua/character_selection.lua:25
 msgid "Select Character"
-msgstr ""
+msgstr "Diuzañ un dudenn"
 
 #. [lua]: wml_actions.select_character
 #: data/campaigns/tutorial/lua/character_selection.lua:36
+#, fuzzy
 msgid "Who do you want to play?"
-msgstr ""
+msgstr "Piv a fellfe deoc’h c’hoari?"
 
 #. [side]: type=Fighter, id=student
 #. [lua]: wml_actions.select_character
@@ -33,7 +35,7 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:32
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:30
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. [modify_side]
 #. [lua]: wml_actions.select_character
@@ -41,7 +43,7 @@ msgstr ""
 #: data/campaigns/tutorial/lua/character_selection.lua:94
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:173
 msgid "Li’sar"
-msgstr ""
+msgstr "Li’sar"
 
 #. [tutorial]: id=tutorial
 #. Hello, translators! The tutorial is meant to be a bit funny at the start,
@@ -49,7 +51,7 @@ msgstr ""
 #. If you have any questions, ask in the forums or in the #wesnoth-dev channel on the Freenode IRC network.
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:8
 msgid "Wesnoth Tutorial — Part I"
-msgstr ""
+msgstr "Tutorial Wesnoth — Lodenn gentañ"
 
 #. [side]: type=Fighter, id=student
 #. [side]
@@ -57,12 +59,12 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:26
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:99
 msgid "team_name^Student"
-msgstr ""
+msgstr "Studier"
 
 #. [unit]: id=Delfador, type=Elder Mage
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:74
 msgid "Delfador"
-msgstr ""
+msgstr "Delfador"
 
 #. [objectives]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:118
@@ -73,16 +75,23 @@ msgid ""
 "• <small>Healing</small>\n"
 "• <small>Recruiting</small>"
 msgstr ""
+"Deskiñ a reoc'h diazez:\n"
+"• <small>An dilec’hiañ</small>\n"
+"• <small>An argad</small>\n"
+"• <small>Ar bredererezh</small>\n"
+"• <small>An tuta</small>"
 
 #. [objective]: condition=win
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:124
+#, fuzzy
 msgid "Destroy a fierce enemy"
-msgstr ""
+msgstr "Distrujañ un enebour ferv"
 
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:128
+#, fuzzy
 msgid "Get yourself killed"
-msgstr ""
+msgstr "Bezañ lazhet"
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:136
@@ -96,7 +105,7 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:166
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:188
 msgid "Welcome to Wesnoth!"
-msgstr ""
+msgstr "Donemat ba Wesnoth!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:147
@@ -127,23 +136,26 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:174
 msgid "Click on Konrad"
-msgstr ""
+msgstr "Klikit war Gonrad"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:176
 msgid "Click on Li’sar"
-msgstr ""
+msgstr "Klikit war Li’sar"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:318
+#, fuzzy
 msgid "To undo your last move, press <b>u</b> or use the right-click menu."
 msgstr ""
+"Pouezit war <b>u</b> evit dizober ho tilec’hiañ diwezhañ, pe implijit lañser "
+"ar c’hlik a-zehou."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:359
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:367
 msgid "Movement"
-msgstr ""
+msgstr "Dilec’hiañ"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:361
@@ -170,27 +182,30 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:380
 msgid "Move Konrad next to Delfador"
-msgstr ""
+msgstr "Dilec’hit Konrad tal kichen Delfador"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:382
 msgid "Move Li’sar next to Delfador"
-msgstr ""
+msgstr "Dilec’hit Li’sar tal kichen Delfador"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:399
+#, fuzzy
 msgid "Good morning, Delfador! Is it time to attack things?"
-msgstr ""
+msgstr "Salud deoc’h, Delfador! Poent eo mont d’argadiñ traoù?"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:400
+#, fuzzy
 msgid "female^Good morning, Delfador! Is it time to attack things?"
-msgstr ""
+msgstr "Salud deoc’h, Delfador! Poent eo mont d’argadiñ traoù?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:405
+#, fuzzy
 msgid "Um, well..."
-msgstr ""
+msgstr "Ma..."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:410
@@ -205,12 +220,12 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:416
 msgid "Quiet! I will summon an enemy for you..."
-msgstr ""
+msgstr "Peoc’h! Aspediñ a rin un enebour evidoc’h..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:488
 msgid "... this quintain!"
-msgstr ""
+msgstr "… ar jak-mañ!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:493
@@ -224,23 +239,29 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:500
+#, fuzzy
 msgid ""
 "Young man, you have $student_hp hitpoints and a sword. I’m fairly sure "
 "you’ll win."
 msgstr ""
+"Paotr yaouank, $student_hp poent buhez hag ur c’hleze a zo ganeoc’h. Sur a-"
+"walc’h e troc’hi."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:505
+#, fuzzy
 msgid ""
 "female^Young lady, you have $student_hp hitpoints and a sword. I’m fairly "
 "sure you’ll win."
 msgstr ""
+"Plac’h  yaouank, $student_hp poent buhez hag ur c’hleze a zo ganeoc’h. Sur a-"
+"walc’h e troc’hi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:512
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:519
 msgid "Attacking"
-msgstr ""
+msgstr "Argadiñ"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:514
@@ -276,25 +297,26 @@ msgstr ""
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:550
 msgid "Should I retreat?"
-msgstr ""
+msgstr "Hag e rankfen mont war-gil?"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:551
 msgid "female^Should I retreat?"
-msgstr ""
+msgstr "Hag e rankfen mont war-gil?"
 
 #. [message]: speaker=Delfador
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:556
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:795
+#, fuzzy
 msgid "Good idea!"
-msgstr ""
+msgstr "Ur mennozh mat!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:562
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:569
 msgid "Crowns"
-msgstr ""
+msgstr "Kurunoù"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:564
@@ -367,11 +389,13 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:641
 msgid "Ouch! I need to heal! Only $student_hp hitpoints left!"
 msgstr ""
+"Aiou! Ret eo din en em brederiañ! N’em eus ken met $student_hp poent buhez!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:642
 msgid "female^Ouch! I need to heal! Only $student_hp hitpoints left!"
 msgstr ""
+"Aiou! Ret eo din en em brederiañ! N’em eus ken met $student_hp poent buhez!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:647
@@ -383,7 +407,7 @@ msgstr ""
 #. [label]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:652
 msgid "Village"
-msgstr ""
+msgstr "Kêriadenn"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:665
@@ -398,7 +422,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:680
 msgid "Villages"
-msgstr ""
+msgstr "Kêriadennoù"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:682
@@ -432,12 +456,12 @@ msgstr ""
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:716
 msgid "I’ll recruit some elves!"
-msgstr ""
+msgstr "Tuta a rin ur bern elfed!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:717
 msgid "female^I’ll recruit some elves!"
-msgstr ""
+msgstr "Tuta a rin ur bern elfed!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:722
@@ -450,22 +474,22 @@ msgstr ""
 #. [label]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:727
 msgid "Keep"
-msgstr ""
+msgstr "Tour-meur"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:741
 msgid "Move Konrad to the keep"
-msgstr ""
+msgstr "Dilec’hit Konrad d’an tour-meur"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:743
 msgid "Move Li’sar to the keep"
-msgstr ""
+msgstr "Dilec’hit Li’sar d’an tour-meur"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:761
 msgid "Recruiting"
-msgstr ""
+msgstr "Tuta"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:763
@@ -749,12 +773,12 @@ msgstr ""
 #. [side]: type=Orcish Warrior, id=Thrag
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:47
 msgid "Thrag"
-msgstr ""
+msgstr "Thrag"
 
 #. [unit]: id=Galdrad, type=Elvish Champion
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:105
 msgid "Galdrad"
-msgstr ""
+msgstr "Galdrad"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:119
@@ -805,17 +829,17 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:136
 msgid "Death of Konrad"
-msgstr ""
+msgstr "Marv Konrad"
 
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:147
 msgid "Death of Li’sar"
-msgstr ""
+msgstr "Marv Li’sar"
 
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:158
 msgid "Death of Galdrad"
-msgstr ""
+msgstr "Marv Galdrad"
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:179
