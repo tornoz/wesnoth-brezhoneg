@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-07-18 12:51 UTC\n"
-"PO-Revision-Date: 2019-08-20 07:34+0200\n"
+"PO-Revision-Date: 2019-08-20 08:05+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -286,8 +286,9 @@ msgstr ""
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:540
+#, fuzzy
 msgid "Hey! This quintain fights back!"
-msgstr ""
+msgstr "Ho! Stourm a ra ar jak en-dro!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:545
@@ -1408,7 +1409,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:728
 msgid "Tracking Unused Units"
-msgstr ""
+msgstr "Kavout Unanennoù Dizimplij"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:730
@@ -1436,7 +1437,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:750
 msgid "Recruit the Right Units"
-msgstr ""
+msgstr "Tuta an Unanennoù Mat"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:752
