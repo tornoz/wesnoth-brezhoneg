@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-07-18 12:51 UTC\n"
-"PO-Revision-Date: 2019-08-20 11:50+0200\n"
+"PO-Revision-Date: 2019-08-20 12:24+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -342,8 +342,9 @@ msgid "Traits"
 msgstr ""
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:39
+#, fuzzy
 msgid "Attacks"
-msgstr ""
+msgstr "Argadoù"
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:51
 msgid "Choose a Corpse"
@@ -391,7 +392,7 @@ msgstr ""
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:360
 #: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:1060
 msgid "poisoned"
-msgstr ""
+msgstr "pistriet"
 
 #. [objectives]
 #. [lua]: generate_objectives
@@ -1257,7 +1258,7 @@ msgstr ""
 #. [item]: id=temple1
 #: data/core/editor/items.cfg:760
 msgid "Temple"
-msgstr ""
+msgstr "Azeuldi"
 
 #. [item]: id=tent-fancy-red
 #: data/core/editor/items.cfg:766
@@ -3292,7 +3293,7 @@ msgstr "Ket"
 #: data/gui/window/screenshot_notification.cfg:95
 #: src/hotkey/command_executor.cpp:628
 msgid "Screenshot"
-msgstr ""
+msgstr "Tapadenn-skramm"
 
 #. [fonts]
 #: data/hardwired/fonts.cfg:28
@@ -3341,7 +3342,7 @@ msgstr ""
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:1060
 msgid "female^poisoned"
-msgstr ""
+msgstr "pistriet"
 
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1067
@@ -3508,7 +3509,7 @@ msgstr ""
 #. [action]: id=button-stopreplay, type=image
 #: data/themes/_initial.cfg:601
 msgid "pause"
-msgstr ""
+msgstr "ehanañ"
 
 #. [theme]: id=Classic
 #: data/themes/classic.cfg:11
@@ -3524,12 +3525,12 @@ msgstr ""
 #: data/themes/classic.cfg:86 data/themes/cutscene.cfg:37
 #: data/themes/default.cfg:80
 msgid "Menu"
-msgstr ""
+msgstr "Lañser"
 
 #. [menu]: id=actions-menu
 #: data/themes/classic.cfg:97 data/themes/default.cfg:98
 msgid "Actions"
-msgstr ""
+msgstr "Gwezhioù"
 
 #. [action]: id=button-endturn
 #: data/themes/classic.cfg:120 data/themes/cutscene.cfg:53
@@ -3543,10 +3544,11 @@ msgstr ""
 msgid "End Scenario"
 msgstr ""
 
+# Poentoù Buhez
 #. [label]: id=label-hp
 #: data/themes/classic.cfg:202 data/themes/default.cfg:144
 msgid "HP"
-msgstr ""
+msgstr "PB"
 
 #. [label]: id=label-xp
 #: data/themes/classic.cfg:211 data/themes/default.cfg:153
@@ -3556,17 +3558,17 @@ msgstr ""
 #. [label]: id=gold-icon
 #: data/themes/classic.cfg:221 data/themes/default.cfg:178
 msgid "gold"
-msgstr ""
+msgstr "aour"
 
 #. [label]: id=villages-icon
 #: data/themes/classic.cfg:230 data/themes/default.cfg:187
 msgid "villages"
-msgstr ""
+msgstr "kêriadennoù"
 
 #. [label]: id=units-icon
 #: data/themes/classic.cfg:239 data/themes/default.cfg:196
 msgid "units"
-msgstr ""
+msgstr "unanennoù"
 
 #. [label]: id=upkeep-icon
 #: data/themes/classic.cfg:248 data/themes/default.cfg:205
@@ -3608,10 +3610,11 @@ msgstr ""
 msgid "Back to..."
 msgstr ""
 
+# Poentoù Hud
 #. [label]: id=label-mp
 #: data/themes/default.cfg:161
 msgid "MP"
-msgstr ""
+msgstr "PH"
 
 #. [label]: id=label-def
 #: data/themes/default.cfg:169
@@ -4670,7 +4673,7 @@ msgstr ""
 
 #: src/chat_command_handler.cpp:158
 msgid "version"
-msgstr ""
+msgstr "handelv"
 
 #: src/chat_command_handler.cpp:174
 msgid "registering with password *** and no email address"
@@ -4864,7 +4867,7 @@ msgstr ""
 
 #: src/chat_events.cpp:63 src/chat_events.cpp:72
 msgid "error"
-msgstr ""
+msgstr "fazi"
 
 #: src/chat_events.cpp:70
 msgid "Unknown debug domain: '$domain'."
@@ -5031,19 +5034,19 @@ msgstr[4] ""
 
 #: src/game_events/pump.cpp:476 src/game_launcher.cpp:915
 msgid "Error: "
-msgstr ""
+msgstr "Fazi:"
 
 #: src/game_events/pump.cpp:478
 msgid "Warning: "
-msgstr ""
+msgstr "Diwallit:"
 
 #: src/game_events/pump.cpp:480
 msgid "Debug: "
-msgstr ""
+msgstr "Diveugañ:"
 
 #: src/game_events/pump.cpp:482
 msgid "Info: "
-msgstr ""
+msgstr "Titouroù:"
 
 #: src/game_initialization/configure_engine.cpp:64
 msgid "$login|’s game"
@@ -5051,7 +5054,7 @@ msgstr ""
 
 #: src/game_initialization/connect_engine.cpp:86
 msgid "Team"
-msgstr ""
+msgstr "Skipailh"
 
 #: src/game_initialization/connect_engine.cpp:991
 msgid "Anonymous player"
@@ -5093,7 +5096,7 @@ msgstr ""
 
 #: src/game_initialization/create_engine.cpp:94
 msgid "not available."
-msgstr ""
+msgstr "dihegerz."
 
 #: src/game_initialization/create_engine.cpp:149
 msgid "Custom map."
@@ -5251,7 +5254,7 @@ msgstr ""
 
 #: src/game_initialization/multiplayer.cpp:217
 msgid "Warning"
-msgstr ""
+msgstr "Diwallit"
 
 #: src/game_initialization/multiplayer.cpp:260
 #: src/game_initialization/multiplayer.cpp:276
@@ -5419,7 +5422,7 @@ msgstr ""
 
 #: src/game_initialization/playcampaign.cpp:139
 msgid "Victory"
-msgstr ""
+msgstr "Trecʼh"
 
 #: src/game_initialization/playcampaign.cpp:140
 msgid "You have emerged victorious!"
@@ -5570,7 +5573,7 @@ msgstr ""
 
 #: src/gui/dialogs/multiplayer/player_info.cpp:158
 msgid "Error"
-msgstr ""
+msgstr "Fazi"
 
 #: src/gui/dialogs/unit_list.hpp:45
 msgid "No units found."
@@ -5578,11 +5581,11 @@ msgstr ""
 
 #: src/gui/widgets/status_label_helper.hpp:33
 msgid "no"
-msgstr ""
+msgstr "ket"
 
 #: src/gui/widgets/status_label_helper.hpp:33
 msgid "yes"
-msgstr ""
+msgstr "ya"
 
 #: src/help/help_browser.cpp:160
 msgid "Reference to unknown topic: "
@@ -5614,7 +5617,7 @@ msgstr ""
 
 #: src/help/help_impl.cpp:610
 msgid "Races: "
-msgstr ""
+msgstr "Gouennoù: "
 
 #: src/help/help_impl.cpp:619 src/help/help_impl.cpp:970
 msgid "Alignments: "
@@ -5683,7 +5686,7 @@ msgstr ""
 
 #: src/help/help_topic_generators.cpp:261
 msgid "Level"
-msgstr ""
+msgstr "Live"
 
 #: src/help/help_topic_generators.cpp:322
 msgid "Advances from: "
@@ -5707,22 +5710,23 @@ msgstr ""
 
 #: src/help/help_topic_generators.cpp:402 src/reports.cpp:203
 msgid "Race: "
-msgstr ""
+msgstr "Gouenn:"
 
 #: src/help/help_topic_generators.cpp:472
 msgid "Abilities: "
-msgstr ""
+msgstr "Barregezhioù:"
 
 #: src/help/help_topic_generators.cpp:490
 msgid "Ability Upgrades: "
 msgstr ""
 
+# Poentoù Buhez
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:512
 msgid "HP:"
-msgstr ""
+msgstr "PB: "
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
@@ -5750,7 +5754,7 @@ msgstr ""
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:532
 msgid "Cost:"
-msgstr ""
+msgstr "Koust:"
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
@@ -5836,7 +5840,7 @@ msgstr ""
 
 #: src/hotkey/command_executor.cpp:391
 msgid "Surrender"
-msgstr ""
+msgstr "En em zaskoriñ"
 
 #: src/hotkey/command_executor.cpp:804
 msgid "Map-Screenshot"
@@ -5880,27 +5884,27 @@ msgstr ""
 
 #: src/map/location.cpp:164
 msgid "North"
-msgstr ""
+msgstr "Hanternoz"
 
 #: src/map/location.cpp:166
 msgid "North East"
-msgstr ""
+msgstr "Biz"
 
 #: src/map/location.cpp:168
 msgid "North West"
-msgstr ""
+msgstr "Gwalarn"
 
 #: src/map/location.cpp:170
 msgid "South"
-msgstr ""
+msgstr "Kreisteiz"
 
 #: src/map/location.cpp:172
 msgid "South East"
-msgstr ""
+msgstr "Gevred"
 
 #: src/map/location.cpp:174
 msgid "South West"
-msgstr ""
+msgstr "Mervent"
 
 #: src/map_command_handler.hpp:187
 msgid "This command is currently unavailable."
@@ -5914,7 +5918,7 @@ msgstr ""
 
 #: src/map_command_handler.hpp:210
 msgid "Error:"
-msgstr ""
+msgstr "Fazi:"
 
 #: src/map_command_handler.hpp:216
 msgid ""
@@ -5939,7 +5943,7 @@ msgstr ""
 #: src/map_command_handler.hpp:311 src/map_command_handler.hpp:312
 #: src/map_command_handler.hpp:336
 msgid "help"
-msgstr ""
+msgstr "skoazell"
 
 #: src/map_command_handler.hpp:312
 msgid "Type $help_command <command> for more info."
@@ -5971,7 +5975,7 @@ msgstr ""
 
 #: src/menu_events.cpp:221
 msgid "Message:"
-msgstr ""
+msgstr "Kemennadenn:"
 
 #: src/menu_events.cpp:223
 msgid "Send to observers only"
@@ -6039,7 +6043,7 @@ msgstr ""
 
 #: src/menu_events.cpp:640
 msgid "Name:"
-msgstr ""
+msgstr "Anv:"
 
 #: src/menu_events.cpp:815
 msgid "Clear Labels"
@@ -6051,7 +6055,7 @@ msgstr ""
 
 #: src/menu_events.cpp:1011
 msgid "Search"
-msgstr ""
+msgstr "Klask"
 
 #: src/menu_events.cpp:1150
 msgid "(D) — debug only, (N) — network only, (A) — admin only"
@@ -6139,7 +6143,7 @@ msgstr ""
 
 #: src/menu_events.cpp:1213
 msgid "Disable autosaves."
-msgstr ""
+msgstr "Diweredekaat an emenrollañ."
 
 #: src/menu_events.cpp:1215
 msgid "<id>"
@@ -6438,7 +6442,7 @@ msgstr ""
 #: src/mp_ui_alerts.cpp:66 src/mp_ui_alerts.cpp:80 src/mp_ui_alerts.cpp:149
 #: src/mp_ui_alerts.cpp:160
 msgid "Wesnoth"
-msgstr ""
+msgstr "Wesnoth"
 
 #: src/mp_ui_alerts.cpp:80
 msgid "A player has left"
@@ -6571,7 +6575,7 @@ msgstr ""
 
 #: src/quit_confirmation.cpp:59
 msgid "Quit"
-msgstr ""
+msgstr "Kuitaat"
 
 #: src/quit_confirmation.cpp:94
 msgid "Do you really want to quit?"
@@ -6579,7 +6583,7 @@ msgstr ""
 
 #: src/reports.cpp:162 src/savegame.cpp:400
 msgid "Name: "
-msgstr ""
+msgstr "Anv:"
 
 #: src/reports.cpp:183
 msgid "Type: "
@@ -6591,7 +6595,7 @@ msgstr ""
 
 #: src/reports.cpp:257
 msgid "Level: "
-msgstr ""
+msgstr "Live:"
 
 #: src/reports.cpp:262
 msgid "Advancements:"
@@ -6625,7 +6629,7 @@ msgstr ""
 
 #: src/reports.cpp:346
 msgid "poisoned: "
-msgstr ""
+msgstr "pistriet: "
 
 #: src/reports.cpp:347
 msgid ""
@@ -6647,7 +6651,7 @@ msgstr ""
 
 #: src/reports.cpp:429
 msgid "Ability: "
-msgstr ""
+msgstr "Barregezh:"
 
 #: src/reports.cpp:431 src/reports.cpp:957
 msgid " (inactive)"
@@ -6695,7 +6699,7 @@ msgstr ""
 
 #: src/reports.cpp:791 src/reports.cpp:1046 src/reports.cpp:1058
 msgid "Weapon: "
-msgstr ""
+msgstr "Arm:"
 
 #: src/reports.cpp:792 src/reports.cpp:1047
 msgid "Damage: "
@@ -6711,7 +6715,7 @@ msgstr ""
 
 #: src/reports.cpp:801
 msgid "Time of day: "
-msgstr ""
+msgstr "Mare eus an devezh:"
 
 #: src/reports.cpp:805
 msgid "Leadership: "
@@ -6722,8 +6726,9 @@ msgid "Slowed: "
 msgstr ""
 
 #: src/reports.cpp:813
+#, fuzzy
 msgid "Attacks: "
-msgstr ""
+msgstr "Argadoù:"
 
 #: src/reports.cpp:817
 msgid "Max swarm bonus: "
@@ -6778,13 +6783,14 @@ msgid "Total damage"
 msgstr ""
 
 #: src/reports.cpp:1123
+#, fuzzy
 msgid "Attack"
 msgid_plural "Attacks"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+msgstr[0] "Argad"
+msgstr[1] "Argad"
+msgstr[2] "Argad"
+msgstr[3] "Argad"
+msgstr[4] "Argad"
 
 #: src/reports.cpp:1216
 msgid "Time of day schedule:"
@@ -6792,7 +6798,7 @@ msgstr ""
 
 #: src/reports.cpp:1265
 msgid "Time of day:"
-msgstr ""
+msgstr "Mare eus an devezh:"
 
 #: src/reports.cpp:1266 src/reports.cpp:1320
 msgid "Lawful units: "
@@ -6822,7 +6828,7 @@ msgstr ""
 
 #: src/reports.cpp:1411
 msgid "Gold"
-msgstr ""
+msgstr "Aour"
 
 #: src/reports.cpp:1411
 msgid ""
@@ -6835,7 +6841,7 @@ msgstr ""
 
 #: src/reports.cpp:1430
 msgid "Villages"
-msgstr ""
+msgstr "Kêriadennoù"
 
 #: src/reports.cpp:1435
 msgid "The total number of units on your side."
@@ -6942,7 +6948,7 @@ msgstr ""
 
 #: src/savegame.cpp:401
 msgid "Overwrite?"
-msgstr ""
+msgstr "Flastrañ?"
 
 #: src/savegame.cpp:409
 msgid ""
@@ -7142,7 +7148,7 @@ msgstr ""
 
 #: src/synced_commands.cpp:425
 msgid "Details:"
-msgstr ""
+msgstr "Munudoù:"
 
 #: src/synced_commands.cpp:428
 msgid "Do you wish to save the game before continuing?"
