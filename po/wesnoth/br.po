@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-07-18 12:51 UTC\n"
-"PO-Revision-Date: 2019-08-20 09:54+0200\n"
+"PO-Revision-Date: 2019-08-20 11:50+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,7 +25,7 @@ msgstr ""
 #. [multiplayer_side]: id=Custom
 #: data/_main.cfg:22
 msgid "Custom"
-msgstr ""
+msgstr "Personelaet"
 
 #. [advanced_preference]: type=combo
 #: data/advanced_preferences.cfg:4
@@ -435,12 +435,12 @@ msgstr ""
 #. [about]
 #: data/core/about.cfg:749
 msgid "Music"
-msgstr ""
+msgstr "Sonerezh"
 
 #. [about]
 #: data/core/about.cfg:786
 msgid "Sound Effects"
-msgstr ""
+msgstr "Efedoù Son"
 
 #. [about]
 #: data/core/about.cfg:810
@@ -470,22 +470,22 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:4
 msgid "Afrikaans Translation"
-msgstr ""
+msgstr "Troidigezh afrikanek"
 
 #. [about]
 #: data/core/about_i18n.cfg:24
 msgid "Arabic Translation"
-msgstr ""
+msgstr "Troidigezh arabek"
 
 #. [about]
 #: data/core/about_i18n.cfg:31
 msgid "Asturian Translation"
-msgstr ""
+msgstr "Troidigezh asturek"
 
 #. [about]
 #: data/core/about_i18n.cfg:37
 msgid "Basque Translation"
-msgstr ""
+msgstr "Troidigezh euskarek"
 
 #. [about]
 #: data/core/about_i18n.cfg:50
@@ -500,7 +500,7 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:114
 msgid "Chinese Translation"
-msgstr ""
+msgstr "Troidigezh sinek"
 
 #. [about]
 #: data/core/about_i18n.cfg:202
@@ -530,7 +530,7 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:393
 msgid "English (GB) Translation"
-msgstr ""
+msgstr "Troidigezh saozneg (RU)"
 
 #. [about]
 #: data/core/about_i18n.cfg:418
@@ -540,27 +540,27 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:436
 msgid "Esperanto Translation"
-msgstr ""
+msgstr "Troidigezh esperantek"
 
 #. [about]
 #: data/core/about_i18n.cfg:455
 msgid "Estonian Translation"
-msgstr ""
+msgstr "Troidigezh estonek"
 
 #. [about]
 #: data/core/about_i18n.cfg:465
 msgid "Filipino Translation"
-msgstr ""
+msgstr "Troidigezh filipinek"
 
 #. [about]
 #: data/core/about_i18n.cfg:475
 msgid "Finnish Translation"
-msgstr ""
+msgstr "Troidigezh finnek"
 
 #. [about]
 #: data/core/about_i18n.cfg:524
 msgid "French Translation"
-msgstr ""
+msgstr "Troidigezh gallek"
 
 #. [about]
 #: data/core/about_i18n.cfg:686
@@ -575,7 +575,7 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:729
 msgid "German Translation"
-msgstr ""
+msgstr "Troidigezh alamanek"
 
 #. [about]
 #: data/core/about_i18n.cfg:815
@@ -585,17 +585,17 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:858
 msgid "Hebrew Translation"
-msgstr ""
+msgstr "Troidigezh hebraek"
 
 #. [about]
 #: data/core/about_i18n.cfg:871
 msgid "Hungarian Translation"
-msgstr ""
+msgstr "Troidigezh hungarek"
 
 #. [about]
 #: data/core/about_i18n.cfg:932
 msgid "Icelandic Translation"
-msgstr ""
+msgstr "Troidigezh islandek"
 
 #. [about]
 #: data/core/about_i18n.cfg:942
@@ -605,17 +605,17 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:965
 msgid "Irish Translation"
-msgstr ""
+msgstr "Troidigezh iwerzhonek"
 
 #. [about]
 #: data/core/about_i18n.cfg:972
 msgid "Italian Translation"
-msgstr ""
+msgstr "Troidigezh italianek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1019
 msgid "Japanese Translation"
-msgstr ""
+msgstr "Troidigezh japanek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1109
@@ -655,7 +655,7 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:1224
 msgid "Old English Translation"
-msgstr ""
+msgstr "Troidigezh hensaoznek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1242
@@ -675,12 +675,12 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:1362
 msgid "Romanian Translation"
-msgstr ""
+msgstr "Troidigezh roumanek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1370
 msgid "Russian Translation"
-msgstr ""
+msgstr "Troidigezh rusianek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1462
@@ -690,12 +690,12 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:1471
 msgid "Serbian Translation"
-msgstr ""
+msgstr "Troidigezh serbek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1490
 msgid "Slovak Translation"
-msgstr ""
+msgstr "Troidigezh slovakek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1519
@@ -705,12 +705,12 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:1535
 msgid "Spanish Translation"
-msgstr ""
+msgstr "Troidigezh spagnolek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1617
 msgid "Swedish Translation"
-msgstr ""
+msgstr "Troidigezh svedek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1658
@@ -720,7 +720,7 @@ msgstr ""
 #. [about]
 #: data/core/about_i18n.cfg:1680
 msgid "Ukrainian Translation"
-msgstr ""
+msgstr "Troidigezh ukrainek"
 
 #. [about]
 #: data/core/about_i18n.cfg:1696
@@ -6843,7 +6843,7 @@ msgstr ""
 
 #: src/reports.cpp:1435
 msgid "Units"
-msgstr ""
+msgstr "Unanennoù"
 
 #: src/reports.cpp:1445
 msgid ""
@@ -7315,9 +7315,10 @@ msgstr ""
 msgid "$attack_list|: $effect_description"
 msgstr ""
 
+# Poentoù Buhez
 #: src/units/unit.cpp:1841
 msgid "<span color=\"$color\">$number_or_percent</span> HP"
-msgstr ""
+msgstr "<span color=\"$color\">$number_or_percent</span> PB"
 
 #: src/units/unit.cpp:1851
 msgid "<span color=\"$color\">$number_or_percent</span> move"
