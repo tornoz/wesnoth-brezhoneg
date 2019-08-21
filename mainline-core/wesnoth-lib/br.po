@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-07-18 12:51 UTC\n"
-"PO-Revision-Date: 2019-08-19 15:37+0200\n"
+"PO-Revision-Date: 2019-08-21 12:31+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,6 +20,7 @@ msgstr ""
 "%10<=4) || n%10==9) && (n%100<10 || n%100>19) && (n%100<70 || n%100>79) && (n"
 "%100<90 || n%100>99) ? 2 : n!=0 && n%1000000==0 ? 3 : 4);\n"
 "Language: br\n"
+"Last-Translator: Anthony Guéchoum <wesnothbzh@gmail.com>\n"
 
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=fence
@@ -253,7 +254,7 @@ msgstr ""
 #. [terrain_type]: id=sand
 #: data/core/terrain.cfg:307 data/core/terrain.cfg:2749
 msgid "Sand"
-msgstr ""
+msgstr "Traezh"
 
 #. [terrain_type]: id=sand_beach
 #: data/core/terrain.cfg:308
@@ -417,7 +418,7 @@ msgstr ""
 #: data/core/terrain.cfg:723 data/core/terrain.cfg:2873
 #: data/core/terrain.cfg:2874
 msgid "Forest"
-msgstr ""
+msgstr "Koadoù"
 
 #. [terrain_type]: id=tropical_forest
 #: data/core/terrain.cfg:556
@@ -502,7 +503,7 @@ msgstr ""
 #: data/core/terrain.cfg:769 data/core/terrain.cfg:2777
 #: data/core/terrain.cfg:2778
 msgid "Hills"
-msgstr ""
+msgstr "Torgennoù"
 
 #. [terrain_type]: id=hills_regular
 #: data/core/terrain.cfg:740
@@ -517,7 +518,7 @@ msgstr ""
 #. [terrain_type]: id=desert_hills
 #: data/core/terrain.cfg:759
 msgid "Dunes"
-msgstr ""
+msgstr "Tevennoù"
 
 #. [terrain_type]: id=snow_hills
 #: data/core/terrain.cfg:770
@@ -539,7 +540,7 @@ msgstr ""
 #: data/core/terrain.cfg:1124 data/core/terrain.cfg:1134
 #: data/core/terrain.cfg:2833 data/core/terrain.cfg:2834
 msgid "Mountains"
-msgstr ""
+msgstr "Menez"
 
 #. [terrain_type]: id=regular_mountains
 #: data/core/terrain.cfg:785
@@ -848,7 +849,7 @@ msgstr ""
 #: data/core/terrain.cfg:1322 data/core/terrain.cfg:1376
 #: data/core/terrain.cfg:1388 data/core/terrain.cfg:1401
 msgid "Door"
-msgstr ""
+msgstr "Dor"
 
 #. [terrain_type]: id=portal_door_wooden_sw
 #. [terrain_type]: id=portal_door_wooden_se
@@ -938,7 +939,7 @@ msgstr ""
 #: data/core/terrain.cfg:1832 data/core/terrain.cfg:1850
 #: data/core/terrain.cfg:2898 data/core/terrain.cfg:2899
 msgid "Village"
-msgstr ""
+msgstr "Kêriadenn"
 
 #. [terrain_type]: id=desert_village
 #: data/core/terrain.cfg:1459
@@ -1143,7 +1144,7 @@ msgstr ""
 #: data/core/terrain.cfg:2073 data/core/terrain.cfg:2337
 #: data/core/terrain.cfg:2817 data/core/terrain.cfg:2818
 msgid "Castle"
-msgstr ""
+msgstr "Kastell"
 
 #. [terrain_type]: id=orcish_fort
 #: data/core/terrain.cfg:1904
@@ -1271,7 +1272,7 @@ msgstr ""
 #: data/core/terrain.cfg:2218 data/core/terrain.cfg:2270
 #: data/core/terrain.cfg:2322 data/core/terrain.cfg:2350
 msgid "Keep"
-msgstr ""
+msgstr "Tour-meur"
 
 #. [terrain_type]: id=orcish_keep
 #: data/core/terrain.cfg:2141
@@ -1501,7 +1502,7 @@ msgstr ""
 #. [toggle_button]: id=sort_6
 #: data/core/terrain.cfg:2707 data/gui/window/game_stats.cfg:370
 msgid "Fog"
-msgstr ""
+msgstr "Latar"
 
 #. [terrain_type]: id=fungus
 #: data/core/terrain.cfg:2722 data/core/terrain.cfg:2723
@@ -1792,12 +1793,12 @@ msgstr ""
 #: data/gui/window/terrain_layers.cfg:45 data/gui/window/unit_list.cfg:93
 #: data/gui/window/unit_recall.cfg:47
 msgid "Name"
-msgstr ""
+msgstr "Anv:"
 
 #. [label]
 #: data/gui/widget/addon_list.cfg:93
 msgid "Version"
-msgstr ""
+msgstr "Handelv"
 
 #. [toggle_button]: id=sort_1
 #: data/gui/widget/addon_list.cfg:107
@@ -1873,7 +1874,7 @@ msgstr ""
 #: data/gui/window/statistics_dialog.cfg:608
 #: data/gui/window/terrain_layers.cfg:434 data/gui/window/unit_list.cfg:447
 msgid "Close"
-msgstr ""
+msgstr "Serriñ"
 
 #. [button]: id=type_profile
 #: data/gui/widget/unit_preview_pane.cfg:113
@@ -1913,7 +1914,7 @@ msgstr ""
 #: data/gui/window/addon_connect.cfg:184 data/gui/window/title_screen.cfg:174
 #: src/hotkey/hotkey_command.cpp:277
 msgid "Help"
-msgstr ""
+msgstr "Skoazell"
 
 #. [button]: id=ok
 #: data/gui/window/addon_connect.cfg:198 data/gui/window/mp_connect.cfg:159
@@ -1958,7 +1959,7 @@ msgstr ""
 #: data/gui/window/unit_recall.cfg:454 data/gui/window/unit_recruit.cfg:243
 #: src/hotkey/hotkey_command.cpp:73
 msgid "Cancel"
-msgstr ""
+msgstr "Nullañ"
 
 #. [label]: id=byline
 #: data/gui/window/addon_manager.cfg:84
@@ -1968,7 +1969,7 @@ msgstr ""
 #. [label]: id=version_string
 #: data/gui/window/addon_manager.cfg:120
 msgid "Version:"
-msgstr ""
+msgstr "Handelv:"
 
 #. [scroll_label]: id=description
 #: data/gui/window/addon_manager.cfg:160
@@ -2097,7 +2098,7 @@ msgstr ""
 #. [button]: id=cancel
 #: data/gui/window/addon_manager.cfg:974 data/gui/window/addon_manager.cfg:1138
 msgid "Exit"
-msgstr ""
+msgstr "Kuitaat"
 
 #. [scroll_label]
 #: data/gui/window/addon_uninstall_list.cfg:70
@@ -2200,7 +2201,7 @@ msgstr ""
 #: data/gui/window/wml_message.cfg:444 src/gui/dialogs/message.cpp:181
 #: src/gui/dialogs/message.cpp:188
 msgid "OK"
-msgstr ""
+msgstr "Mat eo"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:82
@@ -2325,7 +2326,7 @@ msgstr ""
 #. [slider]: id=page_number
 #: data/gui/window/chat_log.cfg:76
 msgid "Last"
-msgstr ""
+msgstr "Diwezhañ"
 
 #. [button]: id=previous_tip
 #. [button]: id=previous_page
@@ -2409,7 +2410,7 @@ msgstr ""
 #: data/gui/window/screenshot_notification.cfg:120
 #: src/gui/dialogs/unit_recall.cpp:260
 msgid "Name:"
-msgstr ""
+msgstr "Anv:"
 
 #. [label]
 #: data/gui/window/custom_tod.cfg:204
@@ -2419,7 +2420,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/custom_tod.cfg:285
 msgid "Image:"
-msgstr ""
+msgstr "Skeudenn:"
 
 #. [grid]
 #: data/gui/window/custom_tod.cfg:286
@@ -2429,7 +2430,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/custom_tod.cfg:287
 msgid "Sound:"
-msgstr ""
+msgstr "Son:"
 
 #. [label]
 #: data/gui/window/custom_tod.cfg:316
@@ -2465,8 +2466,9 @@ msgstr ""
 #: data/gui/window/depcheck_confirm_change.cfg:40
 #: src/gui/dialogs/addon/manager.cpp:775 src/gui/dialogs/file_dialog.cpp:303
 #: src/gui/dialogs/file_dialog.cpp:729
+#, fuzzy
 msgid "Confirm"
-msgstr ""
+msgstr "Kadarnaat"
 
 #. [label]
 #: data/gui/window/depcheck_confirm_change.cfg:98
@@ -2481,7 +2483,7 @@ msgstr ""
 #: data/gui/window/game_save_overwrite.cfg:96
 #: data/gui/window/mp_host_game_prompt.cfg:105 src/gui/dialogs/message.cpp:195
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #. [button]: id=cancel
 #: data/gui/window/depcheck_confirm_change.cfg:144
@@ -2491,7 +2493,7 @@ msgstr ""
 #: data/gui/window/game_save_overwrite.cfg:110
 #: data/gui/window/mp_host_game_prompt.cfg:118 src/gui/dialogs/message.cpp:197
 msgid "No"
-msgstr ""
+msgstr "Ket"
 
 #. [label]
 #: data/gui/window/depcheck_select_new.cfg:40
@@ -2521,7 +2523,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/editor_edit_label.cfg:106
 msgid "Category:"
-msgstr ""
+msgstr "Rummad"
 
 #. [label]
 #: data/gui/window/editor_edit_label.cfg:152
@@ -2531,7 +2533,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/editor_edit_label.cfg:164
 msgid "Color"
-msgstr ""
+msgstr "Liv"
 
 #. [toggle_button]: id=immutable_toggle
 #: data/gui/window/editor_edit_label.cfg:181
@@ -2607,7 +2609,7 @@ msgstr ""
 #. [toggle_button]: id=no_leader
 #: data/gui/window/editor_edit_side.cfg:192
 msgid "No leader"
-msgstr ""
+msgstr "Penn ebet"
 
 #. [toggle_button]: id=fog
 #: data/gui/window/editor_edit_side.cfg:208
@@ -2622,7 +2624,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:249 data/gui/window/mp_staging.cfg:330
 msgid "Gold:"
-msgstr ""
+msgstr "Aour:"
 
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:277
@@ -2696,7 +2698,7 @@ msgstr ""
 #: data/gui/window/mp_create_game.cfg:877
 #: src/gui/dialogs/multiplayer/lobby.cpp:472
 msgid "Settings"
-msgstr ""
+msgstr "Arventennoù"
 
 #. [label]
 #: data/gui/window/editor_generate_map.cfg:161
@@ -2711,7 +2713,7 @@ msgstr ""
 #. [label]: id=title
 #: data/gui/window/editor_new_map.cfg:36 src/hotkey/hotkey_command.cpp:171
 msgid "New Map"
-msgstr ""
+msgstr "Kartenn nevez"
 
 #. [label]
 #. [grid]
@@ -2806,7 +2808,7 @@ msgstr ""
 #. [button]: id=delete
 #: data/gui/window/file_dialog.cfg:339 data/gui/window/game_load.cfg:482
 msgid "Delete"
-msgstr ""
+msgstr "Dilemel"
 
 #. [label]: id=title
 #. [button]: id=new_dir
@@ -2817,7 +2819,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/file_dialog.cfg:391
 msgid "File:"
-msgstr ""
+msgstr "Restr:"
 
 #. [label]
 #: data/gui/window/formula_debugger.cfg:36
@@ -2827,7 +2829,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/formula_debugger.cfg:59
 msgid "Welcome"
-msgstr ""
+msgstr "Donemat"
 
 #. [label]: id=state
 #: data/gui/window/formula_debugger.cfg:71
@@ -2862,7 +2864,7 @@ msgstr ""
 #. [button]: id=continue
 #: data/gui/window/formula_debugger.cfg:161
 msgid "Continue"
-msgstr ""
+msgstr "Kendercʼhel"
 
 #. [label]
 #: data/gui/window/formula_debugger.cfg:178
@@ -2875,7 +2877,7 @@ msgstr ""
 #: data/gui/window/formula_debugger.cfg:234
 #: data/gui/window/surrender_quit.cfg:99 data/gui/window/title_screen.cfg:261
 msgid "Quit"
-msgstr ""
+msgstr "Kuitaat"
 
 #. [label]: id=title
 #: data/gui/window/game_cache_options.cfg:36
@@ -3026,28 +3028,28 @@ msgstr ""
 #: data/gui/window/game_stats.cfg:35 data/gui/window/game_stats.cfg:283
 #: src/hotkey/hotkey_command.cpp:84
 msgid "Leader"
-msgstr ""
+msgstr "Penn"
 
 #. [toggle_button]: id=sort_1
 #: data/gui/window/game_stats.cfg:49
 msgid "Team"
-msgstr ""
+msgstr "Skipailh"
 
 #. [toggle_button]: id=sort_2
 #: data/gui/window/game_stats.cfg:63
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:427
 msgid "Gold"
-msgstr ""
+msgstr "Aour"
 
 #. [toggle_button]: id=sort_3
 #: data/gui/window/game_stats.cfg:76
 msgid "Villages"
-msgstr ""
+msgstr "Kêriadennoù"
 
 #. [toggle_button]: id=sort_4
 #: data/gui/window/game_stats.cfg:90
 msgid "Units"
-msgstr ""
+msgstr "Unanennoù"
 
 #. [toggle_button]: id=sort_5
 #: data/gui/window/game_stats.cfg:104
@@ -3254,7 +3256,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/generator_settings.cfg:115
 msgid "Villages:"
-msgstr ""
+msgstr "Kêriadennoù:"
 
 #. [grid]
 #: data/gui/window/generator_settings.cfg:117
@@ -3296,7 +3298,7 @@ msgstr ""
 #: data/gui/window/language_selection.cfg:41
 #: data/gui/window/title_screen.cfg:258
 msgid "Language"
-msgstr ""
+msgstr "Yezh"
 
 #. [label]
 #: data/gui/window/language_selection.cfg:60
@@ -3306,12 +3308,12 @@ msgstr ""
 #. [label]: id=status
 #: data/gui/window/loadscreen.cfg:150
 msgid "Loading..."
-msgstr ""
+msgstr "O kargañ..."
 
 #. [label]: id=map
 #: data/gui/window/lobby_main.cfg:27
 msgid "Games"
-msgstr ""
+msgstr "Cʼhoariadennoù"
 
 #. [image]: id=needs_password
 #: data/gui/window/lobby_main.cfg:146
@@ -3323,7 +3325,7 @@ msgstr ""
 #: data/gui/window/lobby_main.cfg:338
 #: data/gui/window/preferences/05_multiplayer.cfg:415
 msgid "Friends"
-msgstr ""
+msgstr "Mignoned"
 
 #. [toggle_button]: id=filter_without_ignored
 #: data/gui/window/lobby_main.cfg:350
@@ -3370,7 +3372,7 @@ msgstr ""
 #. [button]: id=join_global
 #: data/gui/window/lobby_main.cfg:430 data/gui/window/lobby_main.cfg:585
 msgid "Join"
-msgstr ""
+msgstr "Kejañ"
 
 #. [button]: id=observe_global
 #: data/gui/window/lobby_main.cfg:440 data/gui/window/lobby_main.cfg:597
@@ -3529,7 +3531,7 @@ msgstr ""
 #: data/gui/window/mp_alerts_options.cfg:154
 #: data/gui/window/preferences.cfg:346
 msgid "Sound"
-msgstr ""
+msgstr "Son"
 
 #. [label]: id=notification_label
 #: data/gui/window/mp_alerts_options.cfg:170
@@ -3900,7 +3902,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:116
 msgid "Leader:"
-msgstr ""
+msgstr "Penn:"
 
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:170
@@ -3912,7 +3914,7 @@ msgstr ""
 #: data/gui/window/mp_faction_select.cfg:176
 #: src/gui/dialogs/multiplayer/faction_select.cpp:158
 msgid "Random"
-msgstr ""
+msgstr "Dre zegouezh"
 
 #. [row]
 #. [toggle_button]: id=male_toggle
@@ -3976,7 +3978,7 @@ msgstr ""
 #. [button]: id=cancel
 #: data/gui/window/mp_join_game.cfg:359
 msgid "Leave"
-msgstr ""
+msgstr "Mont kuit"
 
 #. [label]: id=title
 #: data/gui/window/mp_join_game.cfg:422 data/gui/window/mp_staging.cfg:552
@@ -4106,7 +4108,7 @@ msgstr ""
 #. [button]: id=ok
 #: data/gui/window/mp_staging.cfg:422
 msgid "I’m Ready"
-msgstr ""
+msgstr "Prest on"
 
 #. [widget]: id=label
 #: data/gui/window/preferences.cfg:310
@@ -4264,7 +4266,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/preferences/02_hotkeys.cfg:25
 msgid "Categories:"
-msgstr ""
+msgstr "Rummadoù:"
 
 #. [label]
 #: data/gui/window/preferences/02_hotkeys.cfg:53
@@ -4478,7 +4480,7 @@ msgstr ""
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:104
 msgid "Sound effects"
-msgstr ""
+msgstr "Efedoù son"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:104
@@ -4493,7 +4495,7 @@ msgstr ""
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:115
 msgid "Music"
-msgstr ""
+msgstr "Sonerezh"
 
 #. [column]
 #: data/gui/window/preferences/04_sound.cfg:115
@@ -4823,7 +4825,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/terrain_layers.cfg:384
 msgid "Flags"
-msgstr ""
+msgstr "Bannieloù"
 
 #. [label]
 #: data/gui/window/theme_list.cfg:51
@@ -4853,7 +4855,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/title_screen.cfg:251 src/gui/dialogs/game_load.cpp:392
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:252
@@ -4970,7 +4972,7 @@ msgstr ""
 #. [toggle_button]: id=sort_0
 #: data/gui/window/unit_create.cfg:124
 msgid "Race"
-msgstr ""
+msgstr "Gouenn"
 
 #. [toggle_button]: id=sort_2
 #: data/gui/window/unit_list.cfg:107
@@ -4985,7 +4987,7 @@ msgstr ""
 #. [toggle_button]: id=sort_3
 #: data/gui/window/unit_list.cfg:135
 msgid "HP"
-msgstr ""
+msgstr "PB"
 
 #. [toggle_button]: id=sort_4
 #. [toggle_button]: id=sort_2
@@ -5010,7 +5012,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/unit_list.cfg:368 src/hotkey/hotkey_command.cpp:120
 msgid "Unit List"
-msgstr ""
+msgstr "Roll an unanennoù"
 
 #. [label]: id=title
 #: data/gui/window/unit_recall.cfg:291
@@ -5047,7 +5049,7 @@ msgstr ""
 #: src/gui/dialogs/preferences_dialog.cpp:264
 #: src/gui/dialogs/transient_message.cpp:78
 msgid "Error"
-msgstr ""
+msgstr "Fazi"
 
 #. [label]: id=details_heading
 #: data/gui/window/wml_error.cfg:112 src/gui/dialogs/multiplayer/lobby.cpp:213
@@ -5605,7 +5607,7 @@ msgstr ""
 
 #: src/gui/dialogs/editor/generator_settings.cpp:74
 msgid "Island"
-msgstr ""
+msgstr "Enezenn"
 
 #: src/gui/dialogs/file_dialog.cpp:105
 msgid "Find File"
@@ -5724,7 +5726,7 @@ msgstr ""
 
 #: src/gui/dialogs/game_load.cpp:416
 msgid "Version: "
-msgstr ""
+msgstr "Handelv:"
 
 #: src/gui/dialogs/game_load.cpp:421
 msgid "Modifications: "
@@ -5745,17 +5747,17 @@ msgstr ""
 #: src/gui/dialogs/game_stats.cpp:195 src/gui/dialogs/game_stats.cpp:198
 #: src/gui/dialogs/multiplayer/lobby.cpp:470
 msgid "no"
-msgstr ""
+msgstr "ket"
 
 #: src/gui/dialogs/game_stats.cpp:195 src/gui/dialogs/game_stats.cpp:198
 #: src/gui/dialogs/multiplayer/lobby.cpp:470
 msgid "yes"
-msgstr ""
+msgstr "ya"
 
 #: src/gui/dialogs/game_version_dialog.cpp:133
 #: src/gui/dialogs/title_screen.cpp:258
 msgid "Version $version"
-msgstr ""
+msgstr "Handelv $version"
 
 #: src/gui/dialogs/game_version_dialog.cpp:137
 msgid "Running on $os"
@@ -6003,7 +6005,7 @@ msgstr ""
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:105
 msgid "Random Maps"
-msgstr ""
+msgstr "Kartennoù dre zegouezh"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:179
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:180
@@ -6078,7 +6080,7 @@ msgstr ""
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:360
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:96
 msgid "Team:"
-msgstr ""
+msgstr "Skipailh:"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:486
 msgid "Waiting for players to choose factions..."
@@ -6090,7 +6092,7 @@ msgstr ""
 
 #: src/gui/dialogs/preferences_dialog.cpp:187
 msgid "friend"
-msgstr ""
+msgstr "mignon"
 
 #: src/gui/dialogs/preferences_dialog.cpp:192
 msgid "ignored"
@@ -6138,7 +6140,7 @@ msgstr ""
 
 #: src/gui/dialogs/preferences_dialog.cpp:1040
 msgid "∞"
-msgstr ""
+msgstr "∞"
 
 #: src/gui/dialogs/screenshot_notification.cpp:130
 msgid ""
@@ -6416,7 +6418,7 @@ msgstr ""
 #: src/gui/widgets/unit_preview_pane.cpp:483
 #: src/gui/widgets/unit_preview_pane.cpp:502
 msgid "HP: "
-msgstr ""
+msgstr "PB: "
 
 #: src/gui/widgets/unit_preview_pane.cpp:332
 #: src/gui/widgets/unit_preview_pane.cpp:348
@@ -6433,7 +6435,7 @@ msgstr ""
 #: src/gui/widgets/unit_preview_pane.cpp:353
 #: src/gui/widgets/unit_preview_pane.cpp:512
 msgid "MP: "
-msgstr ""
+msgstr "PH: "
 
 #: src/gui/widgets/unit_preview_pane.cpp:391
 #: src/gui/widgets/unit_preview_pane.cpp:540
@@ -6515,7 +6517,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:73
 msgid "cancel"
-msgstr ""
+msgstr "nullañ"
 
 #: src/hotkey/hotkey_command.cpp:74
 msgid "Select Hex"
@@ -6559,7 +6561,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:85
 msgid "Undo"
-msgstr ""
+msgstr "Dizober"
 
 #: src/hotkey/hotkey_command.cpp:86
 msgid "Redo"
@@ -6774,7 +6776,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:160
 msgid "Close Map"
-msgstr ""
+msgstr "Serriñ ar gartenn"
 
 #: src/hotkey/hotkey_command.cpp:164
 msgid "Switch Time of Day"
@@ -7025,7 +7027,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:226
 msgid "Copy"
-msgstr ""
+msgstr "Eilañ"
 
 #: src/hotkey/hotkey_command.cpp:227
 msgid ""
