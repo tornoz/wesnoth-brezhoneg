@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-07-18 12:51 UTC\n"
-"PO-Revision-Date: 2019-08-20 08:56+0200\n"
+"PO-Revision-Date: 2019-08-21 11:37+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -339,7 +339,7 @@ msgstr "skilfoù"
 #: data/campaigns/Legend_of_Wesmere/units/ogres/Great_Ogre.cfg:40
 #: data/core/units/ogres/Ogre.cfg:25 data/core/units/ogres/Young_Ogre.cfg:24
 msgid "cleaver"
-msgstr ""
+msgstr "drailherez"
 
 #. [attack]: type=blade
 #: data/campaigns/Secrets_of_the_Ancients/units/Bone_Captain.cfg:34
@@ -476,7 +476,7 @@ msgstr ""
 #: data/campaigns/Secrets_of_the_Ancients/units/Necro_Sacrifice.cfg:8
 #: data/core/units/undead/Necromancer.cfg:4
 msgid "Necromancer"
-msgstr ""
+msgstr "Nigromañser"
 
 #. [attack]: type=impact
 #: data/campaigns/Secrets_of_the_Ancients/units/Necromancer.cfg:11
@@ -525,7 +525,7 @@ msgstr "mallozh"
 #: data/core/units/monsters/Wolf_Dire.cfg:39
 #: data/core/units/monsters/Wolf_Great.cfg:39
 msgid "fangs"
-msgstr ""
+msgstr "krabanoù"
 
 #. [attack]: type=blade
 #. [unit_type]: id=SotA Walking Corpse_Rat
@@ -539,7 +539,7 @@ msgstr ""
 #: data/core/units/monsters/Wild_Wyvern.cfg:23
 #: data/core/units/undead/Corpse_Ghast.cfg:27
 msgid "bite"
-msgstr ""
+msgstr "krogadenn"
 
 #. [variation]
 #. [unit_type]: id=Soulless, race=undead
@@ -863,14 +863,14 @@ msgstr ""
 #: data/core/units/humans/Horse_Lancer.cfg:23
 #: data/core/units/humans/Horse_Paladin.cfg:48
 msgid "lance"
-msgstr "goaf marc'heger"
+msgstr "goaf marc’hegerezh"
 
 #. [attack]: type=impact
 #: data/campaigns/The_South_Guard/units/Infantry_Commander.cfg:40
 #: data/core/units/dunefolk/Blademaster.cfg:38
 #: data/core/units/dunefolk/Swordsman.cfg:37
 msgid "shield bash"
-msgstr ""
+msgstr "taol-skoed"
 
 #. [attack]: type=arcane
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Divine_Avatar.cfg:36
@@ -1084,8 +1084,9 @@ msgstr ""
 #: data/core/units/drakes/Blademaster.cfg:27
 #: data/core/units/drakes/Clasher.cfg:24 data/core/units/drakes/Enforcer.cfg:34
 #: data/core/units/drakes/Thrasher.cfg:22
+#, fuzzy
 msgid "war talon"
-msgstr ""
+msgstr "krabanoù emgann"
 
 #. [unit_type]: id=Drake Burner, race=drake
 #: data/core/units/drakes/Burner.cfg:4
@@ -1164,8 +1165,9 @@ msgstr ""
 #: data/core/units/drakes/Fighter.cfg:24
 #: data/core/units/drakes/Flameheart.cfg:27 data/core/units/drakes/Flare.cfg:26
 #: data/core/units/drakes/Warrior.cfg:25
+#, fuzzy
 msgid "war blade"
-msgstr ""
+msgstr "lavn emgann"
 
 #. [unit_type]: id=Fire Drake, race=drake
 #: data/core/units/drakes/Fire.cfg:4
@@ -1342,7 +1344,7 @@ msgstr ""
 #. [unit_type]: id=Dune Apothecary, race=dunefolk
 #: data/core/units/dunefolk/Apothecary.cfg:4
 msgid "Dune Apothecary"
-msgstr ""
+msgstr "Apotiker an tevennoù"
 
 #. [unit_type]: id=Dune Apothecary, race=dunefolk
 #: data/core/units/dunefolk/Apothecary.cfg:22
@@ -1356,8 +1358,9 @@ msgstr ""
 
 #. [unit_type]: id=Dune Blademaster, race=dunefolk
 #: data/core/units/dunefolk/Blademaster.cfg:4
+#, fuzzy
 msgid "Dune Blademaster"
-msgstr ""
+msgstr "Mestr al lavnioù an tevennoù"
 
 #. [unit_type]: id=Dune Blademaster, race=dunefolk
 #: data/core/units/dunefolk/Blademaster.cfg:20
@@ -1372,7 +1375,7 @@ msgstr ""
 #. [unit_type]: id=Dune Burner, race=dunefolk
 #: data/core/units/dunefolk/Burner.cfg:4
 msgid "Dune Burner"
-msgstr ""
+msgstr "Entaner an tevennoù"
 
 #. [unit_type]: id=Dune Burner, race=dunefolk
 #: data/core/units/dunefolk/Burner.cfg:23
@@ -1437,7 +1440,7 @@ msgstr "beg"
 #. [unit_type]: id=Dune Explorer, race=dunefolk
 #: data/core/units/dunefolk/Explorer.cfg:4
 msgid "Dune Explorer"
-msgstr ""
+msgstr "Ergezher an tevennoù"
 
 #. [unit_type]: id=Dune Explorer, race=dunefolk
 #: data/core/units/dunefolk/Explorer.cfg:16
@@ -1461,7 +1464,7 @@ msgstr ""
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/dunefolk/Falcon.cfg:4
 msgid "Falcon"
-msgstr ""
+msgstr "Falcʼhun"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/dunefolk/Falcon.cfg:17
@@ -1516,7 +1519,7 @@ msgstr ""
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
 #: data/core/units/dunefolk/Herbalist.cfg:4
 msgid "Dune Herbalist"
-msgstr ""
+msgstr "Louzaouer an tevennoù"
 
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
 #: data/core/units/dunefolk/Herbalist.cfg:20
@@ -1530,10 +1533,12 @@ msgid ""
 "them to quickly heal even the most gravely wounded allies."
 msgstr ""
 
+# e geriadurig ar brezhoneg a-vremañ gant Favereau
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 #: data/core/units/dunefolk/Marauder.cfg:4
+#, fuzzy
 msgid "Dune Marauder"
-msgstr ""
+msgstr "Kailhebodeg an tevennoù"
 
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 #: data/core/units/dunefolk/Marauder.cfg:26
@@ -1563,8 +1568,9 @@ msgstr ""
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:4
+#, fuzzy
 msgid "Dune Raider"
-msgstr ""
+msgstr "Raider an tevennoù"
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:22
@@ -1577,10 +1583,11 @@ msgid ""
 "where they will be surrounded and crushed by Sunderers."
 msgstr ""
 
+# Amañ range = "marz", nompas "a-bell"
 #. [unit_type]: id=Dune Ranger, race=dunefolk
 #: data/core/units/dunefolk/Ranger.cfg:4
 msgid "Dune Ranger"
-msgstr ""
+msgstr "Patrouilher an tevennoù"
 
 #. [unit_type]: id=Dune Ranger, race=dunefolk
 #: data/core/units/dunefolk/Ranger.cfg:17
@@ -1596,7 +1603,7 @@ msgstr ""
 #. [unit_type]: id=Dune Rider, race=dunefolk
 #: data/core/units/dunefolk/Rider.cfg:4
 msgid "Dune Rider"
-msgstr ""
+msgstr "Marc’heger an tevennoù"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
 #: data/core/units/dunefolk/Rider.cfg:17
@@ -1610,7 +1617,7 @@ msgstr ""
 #. [unit_type]: id=Dune Rover, race=dunefolk
 #: data/core/units/dunefolk/Rover.cfg:4
 msgid "Dune Rover"
-msgstr ""
+msgstr "Kantreer an tevennoù"
 
 #. [unit_type]: id=Dune Rover, race=dunefolk
 #: data/core/units/dunefolk/Rover.cfg:16
@@ -1626,7 +1633,7 @@ msgstr ""
 #. [unit_type]: id=Dune Scorcher, race=dunefolk
 #: data/core/units/dunefolk/Scorcher.cfg:4
 msgid "Dune Scorcher"
-msgstr ""
+msgstr "Kigner an tevennoù"
 
 #. [unit_type]: id=Dune Scorcher, race=dunefolk
 #: data/core/units/dunefolk/Scorcher.cfg:23
@@ -1639,8 +1646,9 @@ msgstr ""
 
 #. [unit_type]: id=Dune Skirmisher, race=dunefolk
 #: data/core/units/dunefolk/Skirmisher.cfg:4
+#, fuzzy
 msgid "Dune Skirmisher"
-msgstr ""
+msgstr "Karmoucher an tevennoù"
 
 #. [unit_type]: id=Dune Skirmisher, race=dunefolk
 #: data/core/units/dunefolk/Skirmisher.cfg:19
@@ -1655,7 +1663,7 @@ msgstr ""
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 #: data/core/units/dunefolk/Soldier.cfg:4
 msgid "Dune Soldier"
-msgstr ""
+msgstr "Soudard an tevennoù"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 #: data/core/units/dunefolk/Soldier.cfg:19
@@ -1670,8 +1678,9 @@ msgstr ""
 
 #. [unit_type]: id=Dune Spearguard, race=dunefolk
 #: data/core/units/dunefolk/Spearguard.cfg:4
+#, fuzzy
 msgid "Dune Spearguard"
-msgstr ""
+msgstr "Gward-goafer an tevennoù"
 
 #. [unit_type]: id=Dune Spearguard, race=dunefolk
 #: data/core/units/dunefolk/Spearguard.cfg:19
@@ -1685,8 +1694,9 @@ msgstr ""
 
 #. [unit_type]: id=Dune Spearmaster, race=dunefolk
 #: data/core/units/dunefolk/Spearmaster.cfg:4
+#, fuzzy
 msgid "Dune Spearmaster"
-msgstr ""
+msgstr "Mestr-goafer an tevennoù"
 
 #. [unit_type]: id=Dune Spearmaster, race=dunefolk
 #: data/core/units/dunefolk/Spearmaster.cfg:20
@@ -1701,8 +1711,9 @@ msgstr ""
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:4
+#, fuzzy
 msgid "Dune Sunderer"
-msgstr ""
+msgstr "Kerzher-heol an tevennoù"
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:16
@@ -1717,8 +1728,9 @@ msgstr ""
 
 #. [unit_type]: id=Dune Swiftrider, race=dunefolk
 #: data/core/units/dunefolk/Swiftrider.cfg:4
+#, fuzzy
 msgid "Dune Swiftrider"
-msgstr ""
+msgstr "Kerzher-aozhenn an tevennoù"
 
 #. [unit_type]: id=Dune Swiftrider, race=dunefolk
 #: data/core/units/dunefolk/Swiftrider.cfg:17
@@ -1732,7 +1744,7 @@ msgstr ""
 #. [unit_type]: id=Dune Swordsman, race=dunefolk
 #: data/core/units/dunefolk/Swordsman.cfg:4
 msgid "Dune Swordsman"
-msgstr ""
+msgstr "Klezeour an tevennoù"
 
 #. [unit_type]: id=Dune Swordsman, race=dunefolk
 #: data/core/units/dunefolk/Swordsman.cfg:19
@@ -1747,7 +1759,7 @@ msgstr ""
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 #: data/core/units/dunefolk/Warmaster.cfg:4
 msgid "Dune Warmaster"
-msgstr ""
+msgstr "Penn-brezel an tevennoù"
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 #: data/core/units/dunefolk/Warmaster.cfg:26
@@ -1766,8 +1778,9 @@ msgstr ""
 
 #. [unit_type]: id=Dune Windrider, race=dunefolk
 #: data/core/units/dunefolk/Windrider.cfg:4
+#, fuzzy
 msgid "Dune Windrider"
-msgstr ""
+msgstr "Kerzher-avel an tevennoù"
 
 #. [unit_type]: id=Dune Windrider, race=dunefolk
 #: data/core/units/dunefolk/Windrider.cfg:18
@@ -2404,8 +2417,9 @@ msgstr ""
 
 #. [unit_type]: id=Fog Clearer, race=monster
 #: data/core/units/fake/Fog_Clearer.cfg:13
+#, fuzzy
 msgid "dummy_unit^Fog Clearer"
-msgstr ""
+msgstr "Sklêrijenner latar"
 
 #. [unit_type]: id=Direwolf Rider, race=wolf
 #: data/core/units/goblins/Direwolf_Rider.cfg:4
@@ -2522,7 +2536,7 @@ msgstr ""
 #. [unit_type]: id=Wolf Rider, race=wolf
 #: data/core/units/goblins/Wolf_Rider.cfg:4
 msgid "Wolf Rider"
-msgstr ""
+msgstr "Marcʼheger bleiz"
 
 #. [unit_type]: id=Wolf Rider, race=wolf
 #: data/core/units/goblins/Wolf_Rider.cfg:30
@@ -2542,7 +2556,7 @@ msgstr ""
 #. [unit_type]: id=Gryphon, race=gryphon
 #: data/core/units/gryphons/Gryphon.cfg:4
 msgid "Gryphon"
-msgstr ""
+msgstr "Gripi"
 
 #. [unit_type]: id=Gryphon, race=gryphon
 #: data/core/units/gryphons/Gryphon.cfg:18
@@ -2554,8 +2568,9 @@ msgstr ""
 
 #. [unit_type]: id=Gryphon Master, race=gryphon
 #: data/core/units/gryphons/Gryphon_Master.cfg:4
+#, fuzzy
 msgid "Gryphon Master"
-msgstr ""
+msgstr "Mestr gripi"
 
 #. [unit_type]: id=Gryphon Master, race=gryphon
 #: data/core/units/gryphons/Gryphon_Master.cfg:18
@@ -2567,8 +2582,9 @@ msgstr ""
 
 #. [unit_type]: id=Gryphon Rider, race=gryphon
 #: data/core/units/gryphons/Gryphon_Rider.cfg:4
+#, fuzzy
 msgid "Gryphon Rider"
-msgstr ""
+msgstr "Marcʼheger gripi"
 
 #. [unit_type]: id=Gryphon Rider, race=gryphon
 #: data/core/units/gryphons/Gryphon_Rider.cfg:17
@@ -2581,7 +2597,7 @@ msgstr ""
 #. [unit_type]: id=Grand Knight, race=human
 #: data/core/units/humans/Horse_Grand_Knight.cfg:4
 msgid "Grand Knight"
-msgstr ""
+msgstr "Mercʼheg Meur"
 
 #. [unit_type]: id=Grand Knight, race=human
 #: data/core/units/humans/Horse_Grand_Knight.cfg:20
@@ -2596,7 +2612,7 @@ msgstr ""
 #. [unit_type]: id=Knight, race=human
 #: data/core/units/humans/Horse_Knight.cfg:4
 msgid "Knight"
-msgstr ""
+msgstr "Marcʼheg"
 
 #. [unit_type]: id=Knight, race=human
 #: data/core/units/humans/Horse_Knight.cfg:19
@@ -2655,7 +2671,7 @@ msgstr ""
 #. [unit_type]: id=Horseman, race=human
 #: data/core/units/humans/Horseman.cfg:4
 msgid "Horseman"
-msgstr ""
+msgstr "Marcʼheger"
 
 #. [unit_type]: id=Horseman, race=human
 #: data/core/units/humans/Horseman.cfg:18
@@ -2714,7 +2730,7 @@ msgstr ""
 #: data/core/units/orcs/Slurbow.cfg:46 data/core/units/orcs/Sovereign.cfg:37
 #: data/core/units/undead/Skele_Death_Knight.cfg:48
 msgid "crossbow"
-msgstr ""
+msgstr "kroazwareg"
 
 #. [unit_type]: id=Cavalryman, race=human
 #: data/core/units/humans/Loyalist_Cavalryman.cfg:4
@@ -2737,7 +2753,7 @@ msgstr ""
 #. [unit_type]: id=Dragoon, race=human
 #: data/core/units/humans/Loyalist_Dragoon.cfg:4
 msgid "Dragoon"
-msgstr ""
+msgstr "Dragon"
 
 #. [unit_type]: id=Dragoon, race=human
 #: data/core/units/humans/Loyalist_Dragoon.cfg:20
@@ -2752,7 +2768,7 @@ msgstr ""
 #. [unit_type]: id=Duelist, race=human
 #: data/core/units/humans/Loyalist_Duelist.cfg:4
 msgid "Duelist"
-msgstr ""
+msgstr "Duveller"
 
 #. [unit_type]: id=Duelist, race=human
 #: data/core/units/humans/Loyalist_Duelist.cfg:17
@@ -2793,7 +2809,7 @@ msgstr ""
 #. [unit_type]: id=General, race=human
 #: data/core/units/humans/Loyalist_General.cfg:4
 msgid "General"
-msgstr ""
+msgstr "Jeneral"
 
 #. [unit_type]: id=General, race=human
 #: data/core/units/humans/Loyalist_General.cfg:29
@@ -2810,7 +2826,7 @@ msgstr ""
 #. [unit_type]: id=Grand Marshal, race=human
 #: data/core/units/humans/Loyalist_Grand_Marshal.cfg:4
 msgid "Grand Marshal"
-msgstr ""
+msgstr "Marichal Meur"
 
 #. [unit_type]: id=Grand Marshal, race=human
 #: data/core/units/humans/Loyalist_Grand_Marshal.cfg:24
@@ -2824,7 +2840,7 @@ msgstr ""
 #. [unit_type]: id=Halberdier, race=human
 #: data/core/units/humans/Loyalist_Halberdier.cfg:4
 msgid "Halberdier"
-msgstr ""
+msgstr "Halabarder"
 
 #. [unit_type]: id=Halberdier, race=human
 #: data/core/units/humans/Loyalist_Halberdier.cfg:18
@@ -2879,10 +2895,11 @@ msgid ""
 "comrade fall, yet were powerless to reach the scene in time to help."
 msgstr ""
 
+# digant speg
 #. [unit_type]: id=Javelineer, race=human
 #: data/core/units/humans/Loyalist_Javelineer.cfg:4
 msgid "Javelineer"
-msgstr ""
+msgstr "Speger"
 
 #. [unit_type]: id=Javelineer, race=human
 #: data/core/units/humans/Loyalist_Javelineer.cfg:18
@@ -2899,7 +2916,7 @@ msgstr ""
 #. [unit_type]: id=Lieutenant, race=human
 #: data/core/units/humans/Loyalist_Lieutenant.cfg:4
 msgid "Lieutenant"
-msgstr ""
+msgstr "Letanant"
 
 #. [unit_type]: id=Lieutenant, race=human
 #: data/core/units/humans/Loyalist_Lieutenant.cfg:18
@@ -2930,7 +2947,7 @@ msgstr ""
 #. [unit_type]: id=Master Bowman, race=human
 #: data/core/units/humans/Loyalist_Master_Bowman.cfg:4
 msgid "Master Bowman"
-msgstr ""
+msgstr "Mestr Gwareger"
 
 #. [unit_type]: id=Master Bowman, race=human
 #: data/core/units/humans/Loyalist_Master_Bowman.cfg:19
@@ -3008,7 +3025,7 @@ msgstr ""
 #. [unit_type]: id=Sergeant, race=human
 #: data/core/units/humans/Loyalist_Sergeant.cfg:4
 msgid "Sergeant"
-msgstr ""
+msgstr "Serjant"
 
 #. [unit_type]: id=Sergeant, race=human
 #: data/core/units/humans/Loyalist_Sergeant.cfg:18
@@ -3056,7 +3073,7 @@ msgstr ""
 #. [unit_type]: id=Swordsman, race=human
 #: data/core/units/humans/Loyalist_Swordsman.cfg:4
 msgid "Swordsman"
-msgstr ""
+msgstr "Klezeour"
 
 #. [unit_type]: id=Swordsman, race=human
 #: data/core/units/humans/Loyalist_Swordsman.cfg:17
@@ -3482,7 +3499,7 @@ msgstr ""
 #. [female]
 #: data/core/units/humans/Outlaw_Thief.cfg:147
 msgid "female^Thief"
-msgstr ""
+msgstr "Laerez"
 
 #. [unit_type]: id=Thug, race=human
 #: data/core/units/humans/Outlaw_Thug.cfg:4
@@ -3538,7 +3555,7 @@ msgstr ""
 #. [unit_type]: id=Woodsman, race=human
 #: data/core/units/humans/Woodsman.cfg:4
 msgid "Woodsman"
-msgstr ""
+msgstr "Den ar c'hoad"
 
 #. [unit_type]: id=Woodsman, race=human
 #: data/core/units/humans/Woodsman.cfg:18
@@ -3551,7 +3568,7 @@ msgstr ""
 #. [unit_type]: id=Huntsman, race=human
 #: data/core/units/humans/Woodsman_Huntsman.cfg:5
 msgid "Huntsman"
-msgstr ""
+msgstr "Chaseour"
 
 #. [unit_type]: id=Huntsman, race=human
 #: data/core/units/humans/Woodsman_Huntsman.cfg:19
@@ -3575,7 +3592,7 @@ msgstr ""
 #. [unit_type]: id=Poacher, race=human
 #: data/core/units/humans/Woodsman_Poacher.cfg:4
 msgid "Poacher"
-msgstr ""
+msgstr "Bigrier"
 
 #. [unit_type]: id=Poacher, race=human
 #: data/core/units/humans/Woodsman_Poacher.cfg:17
@@ -3968,7 +3985,7 @@ msgstr ""
 #: data/core/units/monsters/Giant_Scorpion.cfg:46
 #: data/core/units/monsters/Giant_Scorpling.cfg:31
 msgid "sting"
-msgstr ""
+msgstr "flemm"
 
 #. [attack]: type=impact
 #: data/core/units/monsters/Giant_Scorpion.cfg:58
@@ -4026,10 +4043,11 @@ msgstr ""
 msgid "web"
 msgstr "Gwiad"
 
+# Arabeg Jinn
 #. [unit_type]: id=Jinn, race=monster, description=
 #: data/core/units/monsters/Jinn.cfg:4
 msgid "Jinn"
-msgstr ""
+msgstr "Jinn"
 
 #. [attack]: type=fire
 #: data/core/units/monsters/Jinn.cfg:24
@@ -4054,7 +4072,7 @@ msgstr ""
 #. [unit_type]: id=Roc, race=roc, description=
 #: data/core/units/monsters/Roc.cfg:4
 msgid "Roc"
-msgstr ""
+msgstr "Rukh"
 
 #. [unit_type]: id=Sea Serpent, race=monster
 #: data/core/units/monsters/Sea_Serpent.cfg:4
@@ -4152,12 +4170,12 @@ msgstr ""
 #. [unit_type]: id=Great Wolf, race=wolf
 #: data/core/units/monsters/Wolf_Great.cfg:4
 msgid "Great Wolf"
-msgstr ""
+msgstr "Bleiz Meur"
 
 #. [unit_type]: id=Yeti, race=monster
 #: data/core/units/monsters/Yeti.cfg:4
 msgid "Yeti"
-msgstr ""
+msgstr "Yeti"
 
 #. [unit_type]: id=Yeti, race=monster
 #: data/core/units/monsters/Yeti.cfg:19
@@ -4170,10 +4188,11 @@ msgid ""
 "from venturing too far onto the mountains they are said to inhabit."
 msgstr ""
 
+# Ger perseg
 #. [unit_type]: id=Young Roc, race=roc, description=
 #: data/core/units/monsters/Young_Roc.cfg:4
 msgid "Young Roc"
-msgstr ""
+msgstr "Rukh yaouank"
 
 #. [unit_type]: id=Naga Fighter, race=naga
 #: data/core/units/nagas/Fighter.cfg:4
@@ -4379,12 +4398,12 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/orcs/Nightblade.cfg:31
 msgid "blade"
-msgstr ""
+msgstr "lavn"
 
 #. [attack]: type=impact
 #: data/core/units/orcs/Nightblade.cfg:40
 msgid "kick"
-msgstr ""
+msgstr "taol-troad"
 
 #. [unit_type]: id=Orcish Ruler, race=orc
 #: data/core/units/orcs/Ruler.cfg:4
@@ -4582,7 +4601,7 @@ msgstr ""
 #. [unit_type]: id=Great Troll, race=troll
 #: data/core/units/trolls/Great.cfg:4
 msgid "Great Troll"
-msgstr ""
+msgstr "Troll Meur"
 
 #. [unit_type]: id=Great Troll, race=troll
 #: data/core/units/trolls/Great.cfg:17
@@ -4625,7 +4644,7 @@ msgstr ""
 #. [unit_type]: id=Troll, race=troll
 #: data/core/units/trolls/Troll.cfg:4
 msgid "Troll"
-msgstr ""
+msgstr "Troll"
 
 #. [unit_type]: id=Troll, race=troll
 #: data/core/units/trolls/Troll.cfg:16
@@ -4726,7 +4745,7 @@ msgstr ""
 #. [unit_type]: id=Necrophage, race=undead
 #: data/core/units/undead/Corpse_Necrophage.cfg:4
 msgid "Necrophage"
-msgstr ""
+msgstr "Debrer korfoù"
 
 #. [unit_type]: id=Necrophage, race=undead
 #: data/core/units/undead/Corpse_Necrophage.cfg:18
@@ -4741,6 +4760,7 @@ msgid ""
 "but nightmarish."
 msgstr ""
 
+# Den-aerouant, "Dracan" e galleg
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:99
 #: data/core/units/undead/Corpse_Walking.cfg:98
@@ -4751,67 +4771,68 @@ msgstr ""
 #: data/core/units/undead/Corpse_Soulless.cfg:114
 #: data/core/units/undead/Corpse_Walking.cfg:113
 msgid "wc_variation^Dwarf"
-msgstr ""
+msgstr "Korr"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:127
 #: data/core/units/undead/Corpse_Walking.cfg:126
 msgid "wc_variation^Goblin"
-msgstr ""
+msgstr "Gobilin"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:137
 #: data/core/units/undead/Corpse_Walking.cfg:152
 msgid "wc_variation^Mounted"
-msgstr ""
+msgstr "War jav"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:147
 #: data/core/units/undead/Corpse_Walking.cfg:136
 msgid "wc_variation^Gryphon"
-msgstr ""
+msgstr "Gripi"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:163
 #: data/core/units/undead/Corpse_Walking.cfg:162
 msgid "wc_variation^Saurian"
-msgstr ""
+msgstr "Den-glazard"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:173
 #: data/core/units/undead/Corpse_Walking.cfg:172
 msgid "wc_variation^Spider"
-msgstr ""
+msgstr "Kevnidenn"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:182
 #: data/core/units/undead/Corpse_Walking.cfg:181
 msgid "wc_variation^Swimmer"
-msgstr ""
+msgstr "Neuñver"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:200
 #: data/core/units/undead/Corpse_Walking.cfg:199
 msgid "wc_variation^Troll"
-msgstr ""
+msgstr "Troll"
 
+# digant "maesaer" ha "gwez"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:209
 #: data/core/units/undead/Corpse_Walking.cfg:208
 msgid "wc_variation^Wose"
-msgstr ""
+msgstr "Maesaer-wez"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:221
 #: data/core/units/undead/Corpse_Walking.cfg:220
 msgid "wc_variation^Wolf"
-msgstr ""
+msgstr "Bleiz"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:234
 #: data/core/units/undead/Corpse_Walking.cfg:233
 msgid "wc_variation^Bat"
-msgstr ""
+msgstr "Askell-grocʼhen"
 
 #. [unit_type]: id=Ancient Lich, race=undead
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:24
@@ -4902,10 +4923,11 @@ msgid ""
 "the merest desire for power."
 msgstr ""
 
+# ger hensaozneg
 #. [unit_type]: id=Lich, race=undead
 #: data/core/units/undead/Necro_Lich.cfg:4
 msgid "Lich"
-msgstr ""
+msgstr "Lich"
 
 #. [unit_type]: id=Lich, race=undead
 #: data/core/units/undead/Necro_Lich.cfg:22
@@ -5012,10 +5034,11 @@ msgid ""
 "their blades."
 msgstr ""
 
+# Svedeg draug, na dreiñ
 #. [unit_type]: id=Draug, race=undead
 #: data/core/units/undead/Skele_Draug.cfg:4
 msgid "Draug"
-msgstr ""
+msgstr "Draug"
 
 #. [unit_type]: id=Draug, race=undead
 #: data/core/units/undead/Skele_Draug.cfg:18
@@ -5046,7 +5069,7 @@ msgstr ""
 #. [unit_type]: id=Skeleton, race=undead
 #: data/core/units/undead/Skeleton.cfg:4
 msgid "Skeleton"
-msgstr ""
+msgstr "Skeledenn"
 
 #. [unit_type]: id=Skeleton, race=undead
 #: data/core/units/undead/Skeleton.cfg:17
@@ -5109,7 +5132,7 @@ msgstr ""
 #. [unit_type]: id=Shadow, race=undead
 #: data/core/units/undead/Spirit_Shadow.cfg:4
 msgid "Shadow"
-msgstr ""
+msgstr "Skeud"
 
 #. [unit_type]: id=Shadow, race=undead
 #: data/core/units/undead/Spirit_Shadow.cfg:17
@@ -5201,7 +5224,7 @@ msgstr ""
 #. [unit_type]: id=Wose, race=wose
 #: data/core/units/wose/Wose.cfg:4
 msgid "Wose"
-msgstr ""
+msgstr "Maesaer-wez"
 
 #. [unit_type]: id=Wose, race=wose
 #: data/core/units/wose/Wose.cfg:17
