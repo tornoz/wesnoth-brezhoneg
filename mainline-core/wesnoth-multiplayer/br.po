@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-07-18 12:51 UTC\n"
-"PO-Revision-Date: 2019-08-19 15:37+0200\n"
+"PO-Revision-Date: 2019-08-21 12:12+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,6 +16,7 @@ msgstr ""
 "%10<=4) || n%10==9) && (n%100<10 || n%100>19) && (n%100<70 || n%100>79) && (n"
 "%100<90 || n%100>99) ? 2 : n!=0 && n%1000000==0 ? 3 : 4);\n"
 "Language: br\n"
+"Last-Translator: Anthony Guéchoum <wesnothbzh@gmail.com>\n"
 
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
@@ -25,12 +26,12 @@ msgstr ""
 #. [multiplayer_side]: id=Random
 #: data/multiplayer/eras.cfg:6
 msgid "Random"
-msgstr ""
+msgstr "Dre zegouezh"
 
 #. [era]: id=era_default, type=hybrid
 #: data/multiplayer/eras.cfg:53
 msgid "Default"
-msgstr ""
+msgstr "Dre ziouer"
 
 #. [era]: id=era_default, type=hybrid
 #: data/multiplayer/eras.cfg:54
@@ -134,7 +135,7 @@ msgstr ""
 #: data/multiplayer/factions/dunefolk-aoh.cfg:4
 #: data/multiplayer/factions/dunefolk-default.cfg:4
 msgid "Dunefolk"
-msgstr ""
+msgstr "Tud an tevennoù"
 
 #. [multiplayer_side]: id=Dunefolk, type=random
 #: data/multiplayer/factions/dunefolk-aoh.cfg:14
@@ -309,7 +310,7 @@ msgstr ""
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:67
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:111
 msgid "teamname^North"
-msgstr ""
+msgstr "Hanternoz"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:34
@@ -343,7 +344,7 @@ msgstr ""
 #: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:56
 #: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:68
 msgid "teamname^South"
-msgstr ""
+msgstr "Kreisteiz"
 
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:289
@@ -437,7 +438,7 @@ msgstr ""
 #: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:63
 #: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:96
 msgid "teamname^East"
-msgstr ""
+msgstr "Reter"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:35
@@ -472,7 +473,7 @@ msgstr ""
 #: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:74
 #: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:85
 msgid "teamname^West"
-msgstr ""
+msgstr "Kornôg"
 
 #. [multiplayer]: id=multiplayer_Basilisk
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:37
@@ -492,7 +493,7 @@ msgstr ""
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:95
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:91
 msgid "teamname^Statues"
-msgstr ""
+msgstr "Delwennoù"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:94
@@ -522,7 +523,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:116
 msgid "Xikkrisx"
-msgstr ""
+msgstr "Xikkrisx"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:122
@@ -551,7 +552,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:125
 msgid "Oxsrrsk"
-msgstr ""
+msgstr "Oxsrrsk"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:128
@@ -593,7 +594,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:145
 msgid "Blum Duk"
-msgstr ""
+msgstr "Blum Duk"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:147
@@ -619,7 +620,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:156
 msgid "Rah Ihn Mar"
-msgstr ""
+msgstr "Rah Ihn Mar"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:158
@@ -655,7 +656,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:170
 msgid "The Spider"
-msgstr ""
+msgstr "Ar Gevnidenn"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:173
@@ -686,7 +687,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:194
 msgid "Bramwythl"
-msgstr ""
+msgstr "Bramwythl"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:196
@@ -713,7 +714,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:205
 msgid "Talael Ryndoc"
-msgstr ""
+msgstr "Talael Ryndoc"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:208
@@ -725,7 +726,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:211
 msgid "Aethec Corryn"
-msgstr ""
+msgstr "Aethec Corryn"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:214
@@ -1087,12 +1088,12 @@ msgstr ""
 #. [unit]: type=Dwarvish Scout
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:154
 msgid "Kolbur"
-msgstr ""
+msgstr "Kolbur"
 
 #. [unit]: type=Dwarvish Scout
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:179
 msgid "Vilhelm Viskitynnyri"
-msgstr ""
+msgstr "Vilhelm Viskitynnyri"
 
 #. [unit]: type=Woodsman
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:239
@@ -1145,7 +1146,7 @@ msgstr ""
 #. [unit]: type=Dwarvish Scout
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:624
 msgid "Ulysses Mantyjuuri"
-msgstr ""
+msgstr "Ulysses Mantyjuuri"
 
 #. [unit]: type=Orcish Leader
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:746
@@ -1155,7 +1156,7 @@ msgstr ""
 #. [unit]: type=Elvish Fighter
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:787
 msgid "Claiomh Dubh"
-msgstr ""
+msgstr "Claiomh Dubh"
 
 #. [unit]: type=Soulless
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:849
@@ -1251,7 +1252,7 @@ msgstr ""
 #. [trait]: id=remove_hp
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:23
 msgid "statue"
-msgstr ""
+msgstr "delwenn"
 
 #. [trait]: id=remove_hp
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:24
@@ -1273,7 +1274,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:98
 msgid "Statue of Sulla"
-msgstr ""
+msgstr "Delwenn Sulla"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:101
@@ -1286,7 +1287,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:103
 msgid "Statue of Lhun-dup"
-msgstr ""
+msgstr "Delwenn Lhun-dup"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:105
@@ -1296,7 +1297,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:107
 msgid "Statue of Ri-nzen"
-msgstr ""
+msgstr "Delwenn Ri-nzen"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:109
@@ -1306,7 +1307,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:111
 msgid "Statue of Ten-zin"
-msgstr ""
+msgstr "Delwenn Ten-zin"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:113
@@ -1316,7 +1317,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:115
 msgid "Statue of Lo-bsang"
-msgstr ""
+msgstr "Delwenn Lo-bsang"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:117
@@ -1457,7 +1458,7 @@ msgstr ""
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:157
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:158
 msgid "Statue"
-msgstr ""
+msgstr "Delwenn"
 
 #. [multiplayer]: id=multiplayer_Tombs_of_Kesorak
 #: data/multiplayer/scenarios/2p_Tombs_of_Kesorak.cfg:7
@@ -1606,7 +1607,7 @@ msgstr ""
 #: data/multiplayer/scenarios/8p_Morituri.cfg:73
 #: data/multiplayer/scenarios/8p_Morituri.cfg:84
 msgid "teamname^Team 1"
-msgstr ""
+msgstr "Skipailh 1"
 
 #. [side]
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:32
@@ -1619,7 +1620,7 @@ msgstr ""
 #: data/multiplayer/scenarios/8p_Morituri.cfg:51
 #: data/multiplayer/scenarios/8p_Morituri.cfg:95
 msgid "teamname^Team 2"
-msgstr ""
+msgstr "Skipailh 2"
 
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:5
@@ -1695,7 +1696,7 @@ msgstr ""
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:56
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:100
 msgid "teamname^Southwest"
-msgstr ""
+msgstr "Mervent"
 
 #. [side]
 #: data/multiplayer/scenarios/4p_Isars_Cross.cfg:32
@@ -1708,7 +1709,7 @@ msgstr ""
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:51
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:62
 msgid "teamname^Northeast"
-msgstr ""
+msgstr "Biz"
 
 #. [multiplayer]: id=multiplayer_King_of_the_Hill
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:7
@@ -1740,7 +1741,7 @@ msgstr ""
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:78
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:89
 msgid "teamname^Southeast"
-msgstr ""
+msgstr "Gevred"
 
 #. [side]
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:56
@@ -1749,7 +1750,7 @@ msgstr ""
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:22
 #: data/multiplayer/scenarios/5p_Auction-X.cfg:57
 msgid "teamname^Northwest"
-msgstr ""
+msgstr "Gwalarn"
 
 #. [multiplayer]: id=multiplayer_Loris_River
 #: data/multiplayer/scenarios/4p_Loris_River.cfg:7
@@ -1854,7 +1855,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/5p_Auction-X.cfg:69
 msgid "teamname^Center"
-msgstr ""
+msgstr "Kreiz"
 
 #. [multiplayer]: id=multiplayer_Forest_of_Fear
 #: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:5
@@ -1998,7 +1999,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/6p_Team_Survival.cfg:538
 msgid "Death"
-msgstr ""
+msgstr "Marv"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/6p_Team_Survival.cfg:540
@@ -2090,7 +2091,7 @@ msgstr ""
 #: data/multiplayer/scenarios/Random_Scenario.cfg:6
 #: data/multiplayer/scenarios/Random_Scenario.cfg:11
 msgid "Random map"
-msgstr ""
+msgstr "Kartenn dre zegouezh"
 
 #. [multiplayer]: id=multiplayer_Random_Map
 #: data/multiplayer/scenarios/Random_Scenario.cfg:7
